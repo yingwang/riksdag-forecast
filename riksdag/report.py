@@ -45,7 +45,7 @@ td.n,th.n{{text-align:right;font-variant-numeric:tabular-nums}} .sw{{display:inl
 small,.muted{{color:#666}} code{{background:#f4f4f4;padding:0 .25em}}
 </style>
 <h1>Riksdag 2026: what the final count will look like</h1>
-<p class=muted>Generated {f['generated']} · data: Valmyndigheten preliminary count updated {snap['updated']}, {snap['counted_districts']} of {snap['total_districts']} districts, {snap['counted_votes']:,} votes · {sim['draws']:,} simulations</p>
+<p class=muted>Generated {f['generated']} · data: Valmyndigheten preliminary count updated {snap['updated']}, {snap['counted_districts']} of {snap['total_districts']} districts, {snap['counted_votes']:,} valid party votes · {sim['draws']:,} simulations</p>
 <div class=big>
 <div class=card><small>S + V + C + MP reach 175</small><b>{pct(sim['p_left_majority'])}</b><small>median {left['median']} seats, 90 % range {left['p5']}–{left['p95']}</small></div>
 <div class=card><small>M + SD + KD + L reach 175</small><b>{pct(sim['p_right_majority'])}</b><small>median {right['median']} seats, 90 % range {right['p5']}–{right['p95']}</small></div>
