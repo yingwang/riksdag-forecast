@@ -1,0 +1,17 @@
+{
+  "model": {
+    "draws": 4000,
+    "collection_size_sigma_national": 0.2,
+    "collection_size_sigma_local": 0.08,
+    "collection_share_sigma_national": 0.15,
+    "collection_share_concentration": 150,
+    "recount_sigma": 0.002
+  },
+  "government": {
+    "left_majority_andersson": 0.92,
+    "left_majority_kristersson": 0.03,
+    "right_majority_kristersson": 0.9,
+    "right_majority_andersson": 0.04,
+    "note": "The seat probabilities come from the simulation. Translating a 175-seat bloc into a prime minister is a judgement, not a model: the numbers assume the bloc that holds 175 forms the government about nine times in ten, the rest covering a defection, a cross-bloc deal or a new election. Both blocs and these weights are set in config.json."
+  }
+}
