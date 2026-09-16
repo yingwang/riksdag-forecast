@@ -5,18 +5,18 @@ Sweden voted on 13 September 2026. On election night the preliminary count gave 
 Live page: **https://yingwang.github.io/riksdag-forecast/**
 
 <!-- forecast:start -->
-**Latest run** 2026-09-16 13:32 UTC · count updated 2026-09-16T15:28:00 · 6497/6626 districts
+**Latest run** 2026-09-16 18:13 UTC · count updated 2026-09-16T20:05:59 · 6598/6626 districts
 
-- P(S + V + C + MP ≥ 175) = **99.5 %** (median 176, 90 % range 175–176)
-- P(M + SD + KD + L ≥ 175) = **0.5 %** (median 173, 90 % range 173–174)
-- Expected votes still to count: 195,171
+- P(S + V + C + MP ≥ 175) = **100.0 %** (median 176, 90 % range 175–176)
+- P(M + SD + KD + L ≥ 175) = **0.0 %** (median 173, 90 % range 173–174)
+- Expected votes still to count: 114,476
 
 | Party | Seats now | Forecast mean | 90 % range |
 |---|---:|---:|---:|
-| S | 100 | 99.0 | 98–100 |
-| M | 70 | 70.4 | 70–71 |
-| SD | 62 | 62.0 | 62–63 |
-| V | 29 | 29.6 | 29–30 |
+| S | 99 | 99.0 | 99–99 |
+| M | 71 | 70.3 | 70–71 |
+| SD | 62 | 62.0 | 62–62 |
+| V | 29 | 29.8 | 29–30 |
 | C | 25 | 25.0 | 25–25 |
 | KD | 22 | 22.0 | 22–22 |
 | MP | 22 | 22.0 | 22–22 |
