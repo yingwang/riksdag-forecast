@@ -1,7 +1,9 @@
 name: forecast
 on:
-  schedule:
-    - cron: "17 */2 * * *"
+  # The 2026 election is decided and the final count is in. The schedule was
+  # "17 */2 * * *"; after 14 September it produced no new numbers, only an
+  # empty run and a Pages redeploy every two hours. Run it by hand from the
+  # Actions tab if the figures ever need rebuilding.
   workflow_dispatch:
 permissions:
   contents: write
